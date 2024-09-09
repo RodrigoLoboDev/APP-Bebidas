@@ -20,7 +20,7 @@
 
 ## 🌐 Prueba la Aplicación
 
-Puedes probar la aplicación en vivo en [este enlace de Netlify](https://tu-enlace-netlify.com).
+Puedes probar la aplicación en vivo en [este enlace de Netlify](https://app-bebidasts.netlify.app/).
 
 ## 📝 Funcionalidades Principales
 
@@ -46,7 +46,7 @@ src/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/RodrigoLoboDev/REST_API_FRONTEND-PRODUCTS
+git clone https://github.com/RodrigoLoboDev/APP-Bebidas
 ```
 2. Instala las dependencias:
 
